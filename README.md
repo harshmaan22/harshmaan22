@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshmaan22
+- 👋 Hi, I’m harshmaan
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning Devops
 - 😄 Pronouns: He/Him
